@@ -131,7 +131,7 @@ p {
   margin-bottom: 1rem;
 }
 @media (min-width: 800px) {
-  p {
+  p, li.customfont {
     font-size: 24px;
   }
 }
